@@ -7,11 +7,10 @@ Rabin_Karp_Algoritmasi_Elif_Su_Baydarli_F241230017
 👉 Numarası: F241230017  
 👉 Bölümü: Yapay Zeka ve Makine Öğrenmesi  
 👉 Üniversite: Konya Teknik Üniversitesi  
-👉 Ders: Algoritma  
+👉 Ders: Algoritma
 
 ---
 
-sdaşfsdajlkfsajlk
 # 📚 Rabin-Karp Algoritması
 
 ## 🔍 Algoritmanın Tanıtımı
