@@ -1,5 +1,15 @@
 # Rabin_Karp_Algoritmasi
-Rabin_Karp_Algoritmasi
+Rabin_Karp_Algoritmasi_Elif_Su_Baydarli_F241230017
+---
+
+# Repo Sorumlusu
+👉 Repo'yu Atan Kişi: Elif Su Baydarlı  
+👉 Numarası: F241230017  
+👉 Bölümü: Yapay Zeka ve Makine Öğrenmesi  
+👉 Üniversite: Konya Teknik Üniversitesi  
+👉 Ders: Algoritma  
+
+---
 
 # 📚 Rabin-Karp Algoritması
 
